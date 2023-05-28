@@ -1,7 +1,6 @@
 ### Notes:
 Data Science Tutorial...
-
-_______________________________________________________________________________
+_____
 
 * [Maaf](https://itsmecevi.github.io/-MAAF/)
 * [Mencintaimu adalah kesalahan](https://itsmecevi.github.io/mencintaimu-adalah-kesalahan/)
