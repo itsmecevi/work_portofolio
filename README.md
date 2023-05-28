@@ -2,7 +2,7 @@
 Data Science Tutorial...
 _____
 
-* [Maaf](https://itsmecevi.github.io/-MAAF/)
+* Intro to Programming-Arithmetic and Variables: [Google Colab](), [Kaggle]()
 * [Mencintaimu adalah kesalahan](https://itsmecevi.github.io/mencintaimu-adalah-kesalahan/)
 * [Sudut Hatimu Yang Mana](https://itsmecevi.github.io/sudut-tegak-lurus-hatimu/)
 * [Jika dirimu adalah sebuah bilangan](https://itsmecevi.github.io/jika-dirimu-adalah-bilangan/)
