@@ -1,1 +1,8 @@
-# work_portofolio
+### Notes:
+
+### Data Project:
+
+### Lecture:
+
+### Workshop & Training:
+
