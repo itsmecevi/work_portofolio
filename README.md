@@ -1,11 +1,7 @@
 ### Notes:
 Data Science Tutorial...
 
-* Intro to Programming (1-Arithmetic and Variables): [Google Colab](), [Kaggle]()
-* Intro to Programming (2-Function): [Google Colab](), [Kaggle]()
-* Intro to Programming (3-Data Type): [Google Colab](), [Kaggle]()
-* Intro to Programming (4-Condition and Conditional Statement): [Google Colab](), [Kaggle]()
-* Intro to Programming (5-Intro to List): [Google Colab](), [Kaggle]()
+* Intro to Programming: [Google Colab Part 1](), [Google Colab Part 2](), [Google Colab Part 3](), [Google Colab Part 4](), [Google Colab Part 5]()
 * Python Fundamental Tutorial: [Google Colab](), [Kaggle]()
 
 
