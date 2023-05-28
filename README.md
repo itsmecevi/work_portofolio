@@ -1,6 +1,6 @@
 ### Notes:
 Data Science Tutorial...
-_____
+_________________________
 
 * Intro to Programming (1-Arithmetic and Variables): [Google Colab]() | [Kaggle]()
 * [Mencintaimu adalah kesalahan](https://itsmecevi.github.io/mencintaimu-adalah-kesalahan/)
