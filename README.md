@@ -2,7 +2,7 @@
 Data Science Tutorial...
 _________________________
 
-* Intro to Programming (1-Arithmetic and Variables): [Google Colab]()|[Kaggle]()
+* Intro to Programming (1-Arithmetic and Variables): [Google Colab]() | [Kaggle]()
 
 
 ### Data Project:
