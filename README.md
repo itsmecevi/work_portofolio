@@ -6,6 +6,7 @@ Data Science Tutorial...
 * Intro to Programming (3-Data Type): [Google Colab](), [Kaggle]()
 * Intro to Programming (4-Condition and Conditional Statement): [Google Colab](), [Kaggle]()
 * Intro to Programming (5-Intro to List): [Google Colab](), [Kaggle]()
+* Python Fundamental Tutorial: [Google Colab](), [Kaggle]()
 
 
 ### Data Project:
