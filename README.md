@@ -14,7 +14,10 @@ Data Science Tutorial...
 
 Slide...
 
-* 
+* [Data Warehouse & Business Intelligence](https://itsmecevi.github.io/dwbi/)
+* [Data Visualization in R](https://itsmecevi.github.io/dataviz/)
+* [Regression in R](https://itsmecevi.github.io/regression/)
+* [Data Cleaning 1O1 in R](https://itsmecevi.github.io/data-cleaning-101/)
 * [Open Refine 1O1](https://itsmecevi.github.io/openrefine/#)
 * [Colorology](https://itsmecevi.github.io/colorology/)
 * [EDA with R](https://itsmecevi.github.io/eda/)
