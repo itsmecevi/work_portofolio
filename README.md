@@ -14,6 +14,14 @@ Data Science Tutorial...
 
 Slide...
 
+
+* [Data-Driven Impact](https://www.canva.com/design/DAECRX1XUqM/urBGhtwZzqnflcM02pMltg/edit?utm_content=DAECRX1XUqM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* [Elliot Wave](https://itsmecevi.github.io/elliot-wave/)
+* [Chart Pattern](https://itsmecevi.github.io/chart-pattern/)
+* [Candlestick Trading](https://itsmecevi.github.io/candlestick-trading/)
+* [Support & Resistance](https://itsmecevi.github.io/sr-trading/)
+* [News Trading](https://itsmecevi.github.io/news-trading/)
+* [Fundamental Analysis of Trading (Currency Fundamental](https://itsmecevi.github.io/currency-fundamental/)
 * [BI & Visual Analytics](https://itsmecevi.github.io/bi-visual-overview/)
 * [Hands-On Tableau BI](https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing)
 * [Hands-On Tableau Public](https://itsmecevi.github.io/Tableau-Public/)
