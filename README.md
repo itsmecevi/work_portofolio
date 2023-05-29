@@ -14,6 +14,8 @@ Data Science Tutorial...
 
 Slide...
 
+* [finanzkrise und Wirtschaftkrise in Deutschland](https://itsmecevi.github.io/finanzkrise/)
+* [Aggregation von Risiko](https://itsmecevi.github.io/aggregation-risiko/)
 * [Inferential Statistik mit R](https://itsmecevi.github.io/insta/)
 * [Wahrscheinlichkeitsrechnung mit R](https://itsmecevi.github.io/wkr/)
 * [Deskriptive Statistik mit R](https://itsmecevi.github.io/desta/)
