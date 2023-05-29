@@ -14,6 +14,8 @@ Data Science Tutorial...
 
 Slide...
 
+* [Data Storytelling](https://itsmecevi.github.io/data-storytelling/)
+* [KNIME Academy Data Science](https://itsmecevi.github.io/knime-academy-datascience/)
 * [Casperian Trading School-Preschool](https://www.canva.com/design/DAEDnNWpgwQ/QqajLWs5NaMaI4d28M7iAg/view?utm_content=DAEDnNWpgwQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 * [Pinbar Trading Strategy](https://itsmecevi.github.io/pinbar-trading/)
 * [Price Action Strategy](https://itsmecevi.github.io/price-action-strategy/)
