@@ -14,7 +14,10 @@ Data Science Tutorial...
 
 Slide...
 
-* [finanzkrise und Wirtschaftkrise in Deutschland](https://itsmecevi.github.io/finanzkrise/)
+* [Businessplan Fitnes Center](https://itsmecevi.github.io/businessplan-fitnes-center/)
+* [Wertorientierte Unternehmensfuehrung](https://itsmecevi.github.io/wertorientierte-unternehmensf-hrung/)
+* [Vorstellung der Bank](https://itsmecevi.github.io/finanzkrise/)
+* [Finanzkrise und Wirtschaftkrise in Deutschland](https://itsmecevi.github.io/finanzkrise/)
 * [Aggregation von Risiko](https://itsmecevi.github.io/aggregation-risiko/)
 * [Inferential Statistik mit R](https://itsmecevi.github.io/insta/)
 * [Wahrscheinlichkeitsrechnung mit R](https://itsmecevi.github.io/wkr/)
