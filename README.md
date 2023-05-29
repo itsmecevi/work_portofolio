@@ -19,12 +19,12 @@ The best way to learn is to teach...
 
 * **Summer 2023**: Numerical Methods, Python Programming, Python Web Development (Streamlit), Linear Algebra, Business Intelligence (Tableau), Basic Web Development (Bootstrap Studio), Capita Selecta Analytics (Forecasting, NLP, Business Analytics) 
 * **Winter 2022/2023**: Intro to Data Science, Math for Data Science, Business Math, Numerical Method, Statistics & Probability
-* **Summer 2022**: Business Intelligence (Tableau), Intro to Web Development (Bootstrap Studio)
-* Winter 2021/2022: Decision Science, Business Intelligence (Tableau), Statistics for Data Science
-* Summer 2021: Business Intelligence, Capital Selecta Analytics (Forecasting, NLP, Business Analytics), Statistics for Data Science
-* Winter 2020/2021: Decision Science, Code Free Data Science, Statistics for Data Science
-* Summer 2020: Business Intelligence (Tableau), Code Free Data Science, Intro to Data Science
-* Winter 2019/2020: Business Intelligence (Tableau), Intro to Web Development
+* **Summer 2022**: Business Intelligence (Tableau), Intro to Web Development (Bootstrap Studio), Data Science
+* **Winter 2021/2022**: Decision Science, Business Intelligence (Tableau), Statistics for Data Science, Data Science
+* **Summer 2021**: Business Intelligence, Capital Selecta Analytics (Forecasting, NLP, Business Analytics), Statistics for Data Science, Data Science
+* **Winter 2020/2021**: Decision Science, Code Free Data Science, Statistics for Data Science, Data Science
+* **Summer 2020**: Business Intelligence (Tableau), Code Free Data Science, Data Science
+* **Winter 2019/2020**: Business Intelligence (Tableau), Intro to Web Development, Data Science
 
 ### Workshop & Training:
 
