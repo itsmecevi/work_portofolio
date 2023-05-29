@@ -14,6 +14,9 @@ Data Science Tutorial...
 
 Slide...
 
+* [BI & Visual Analytics](https://itsmecevi.github.io/bi-visual-overview/)
+* [Hands-On Tableau BI](https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing)
+* [Hands-On Tableau Public](https://itsmecevi.github.io/Tableau-Public/)
 * [Data Warehouse & Business Intelligence](https://itsmecevi.github.io/dwbi/)
 * [Data Visualization in R](https://itsmecevi.github.io/dataviz/)
 * [Regression in R](https://itsmecevi.github.io/regression/)
