@@ -54,6 +54,7 @@ Slide...
 
 
 ### Data Project:
+Who has the data has the power...
 
 * [Predicting USA Home Sales](https://itsmecevi.github.io/usa-home-sales/)
 * [Predicting Turnover Rate](https://itsmecevi.github.io/hr-turnover-rate/)
@@ -85,6 +86,8 @@ Strive for Progress, not Perfection...
 
 
 ### Journal:
+Imagination is the highest form of research...
+
 * [Prediksi Harian Harga Penutupan Dogecoin: Analisis Faktor Pengaruh dan Algoritmanya (SINTA 5 National Journal)](https://journal.ubpkarawang.ac.id/index.php/TeknikInformatikaSistemInfor/article/view/4423)
 
 by: itsmecevi.github.io
