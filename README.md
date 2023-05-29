@@ -14,6 +14,9 @@ Data Science Tutorial...
 
 Slide...
 
+* 
+* [Open Refine 1O1](https://itsmecevi.github.io/openrefine/#)
+* [Colorology](https://itsmecevi.github.io/colorology/)
 * [EDA with R](https://itsmecevi.github.io/eda/)
 * [Businessplan Fitnes Center](https://itsmecevi.github.io/businessplan-fitnes-center/)
 * [Wertorientierte Unternehmensfuehrung](https://itsmecevi.github.io/wertorientierte-unternehmensf-hrung/)
@@ -28,6 +31,7 @@ Slide...
 
 ### Data Project:
 
+* [Predicting USA Home Sales](https://itsmecevi.github.io/usa-home-sales/)
 * [Predicting Turnover Rate](https://itsmecevi.github.io/hr-turnover-rate/)
 * [Easy web applications in R](https://itsmecevi.github.io/r-shiny-app/)
 * [Key Performance Indicators Dashboard](https://itsmecevi.github.io/dataviz-kpi/)
