@@ -14,6 +14,7 @@ Data Science Tutorial...
 
 Slide...
 
+* [Wahrscheinlichkeitsrechnung mit R](https://itsmecevi.github.io/wkr/)
 * [Deskriptive Statistik mit R](https://itsmecevi.github.io/desta/)
 * [R Programming Pedia](https://r-pedia.gitbook.io/cevi/)
 
