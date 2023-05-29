@@ -12,8 +12,9 @@ Data Science Tutorial...
 * Pandas Cookbok:
 * Python Practice Problems: [Printing](https://colab.research.google.com/drive/1Og23ZVUyoGdVNXBtK8S4fUd_UIQJPBuS?usp=sharing), [Variable](https://colab.research.google.com/drive/19c2kDdRm3uDdTIgd_ikUn-SWeMlLMljx?usp=sharing), [Lists and For Loops](https://colab.research.google.com/drive/1pmkjtlFHO1qAsN4wwCozswOpr5VNMkRB?usp=sharing), [Conditional Statements](https://colab.research.google.com/drive/1e-Fj80HKSfLEAvJ5AawupN2n7HthuNvl?usp=sharing)
 
-Slides...
+Slide...
 
+* [Deskriptive Statistik mit R](https://itsmecevi.github.io/desta/)
 * [R Programming Pedia](https://r-pedia.gitbook.io/cevi/)
 
 
