@@ -19,6 +19,7 @@ Data Science Tutorial...
 ### Workshop & Training:
 
 ### Journal:
+* [Prediksi Harian Harga Penutupan Dogecoin: Analisis Faktor Pengaruh dan Algoritmanya (SINTA 5 National Journal)](https://journal.ubpkarawang.ac.id/index.php/TeknikInformatikaSistemInfor/article/view/4423)
 
 by: itsmecevi.github.io
 
