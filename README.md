@@ -14,8 +14,10 @@ Data Science Tutorial...
 
 Slide...
 
-
-* [Data-Driven Impact](https://www.canva.com/design/DAECRX1XUqM/urBGhtwZzqnflcM02pMltg/edit?utm_content=DAECRX1XUqM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* [Price Action Intro](https://itsmecevi.github.io/price-action-intro/)
+* [Dow Theory](https://itsmecevi.github.io/dow-theory/)
+* [Knime Academy 1O1](https://itsmecevi.github.io/knime-academy-101/)
+* [Data-Driven Impact](https://www.canva.com/design/DAECRX1XUqM/YTKBGJUGmpKLscGY8Nr9zw/view?utm_content=DAECRX1XUqM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 * [Elliot Wave](https://itsmecevi.github.io/elliot-wave/)
 * [Chart Pattern](https://itsmecevi.github.io/chart-pattern/)
 * [Candlestick Trading](https://itsmecevi.github.io/candlestick-trading/)
