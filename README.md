@@ -14,6 +14,7 @@ Data Science Tutorial...
 
 Slide...
 
+* [EDA with R](https://itsmecevi.github.io/eda/)
 * [Businessplan Fitnes Center](https://itsmecevi.github.io/businessplan-fitnes-center/)
 * [Wertorientierte Unternehmensfuehrung](https://itsmecevi.github.io/wertorientierte-unternehmensf-hrung/)
 * [Vorstellung der Bank](https://itsmecevi.github.io/finanzkrise/)
@@ -27,6 +28,7 @@ Slide...
 
 ### Data Project:
 
+* [Predicting Turnover Rate](https://itsmecevi.github.io/hr-turnover-rate/)
 * [Easy web applications in R](https://itsmecevi.github.io/r-shiny-app/)
 * [Key Performance Indicators Dashboard](https://itsmecevi.github.io/dataviz-kpi/)
 
