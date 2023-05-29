@@ -31,7 +31,7 @@ Strive for Progress, not Perfection...
 
 * **2019**: Visual Analytics (PT Belant), Business Intelligence (JICT & PELINDO II)
 * **2020**: Tableau Visual Analytics (Digits UNPAD), Big Data for Social Science Bootcamp (KOMINFO).
-* **2021**: Big Data Analytics: For Better Business Decision Making (Bank Papua), IT Risk Management (Bank Sumselbabel)
+* **2021**: Big Data Analytics: For Better Business Decision Making (Bank Papua), IT Risk Management (Bank Sumselbabel & Uni Tidar)
 * **2022**: Big Data Analytics: For Better Business Decision Making (Bank Sulselbar), Data Analytic with Tableau (Bank Kalteng), Data Science (POLINES dan Bakrie Group), Big Data Analytics for Decision Making (KEMENLU)
 * **2023**: Business Analytics for Media Company (PT Clue), Big Data Analytics (POLINES)
 
