@@ -14,6 +14,8 @@ Data Science Tutorial...
 
 Slide...
 
+* [Pinbar Trading Strategy](https://itsmecevi.github.io/pinbar-trading/)
+* [Price Action Strategy](https://itsmecevi.github.io/price-action-strategy/)
 * [Price Action Intro](https://itsmecevi.github.io/price-action-intro/)
 * [Dow Theory](https://itsmecevi.github.io/dow-theory/)
 * [Knime Academy 1O1](https://itsmecevi.github.io/knime-academy-101/)
