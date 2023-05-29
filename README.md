@@ -14,6 +14,7 @@ Data Science Tutorial...
 
 Slide...
 
+* [Casperian Trading School-Preschool](https://www.canva.com/design/DAEDnNWpgwQ/QqajLWs5NaMaI4d28M7iAg/view?utm_content=DAEDnNWpgwQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 * [Pinbar Trading Strategy](https://itsmecevi.github.io/pinbar-trading/)
 * [Price Action Strategy](https://itsmecevi.github.io/price-action-strategy/)
 * [Price Action Intro](https://itsmecevi.github.io/price-action-intro/)
