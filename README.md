@@ -29,6 +29,7 @@ The best way to learn is to teach...
 ### Workshop & Training:
 
 * **2021**: Big Data Analytics: For Better Business Decision Making (Bank Papua), IT Risk Management (Bank Sumselbabel)
+* **2022:**: Big Data Analytics: For Better Business Decision Making (Bank Sulselbar), Data Analytic with Tableau (Bank Kalteng), Data Science (Polines dan Bakrie Group), Big Data Analytics for Decision Making (Kementrian Luar Negeri)
 
 ### Journal:
 * [Prediksi Harian Harga Penutupan Dogecoin: Analisis Faktor Pengaruh dan Algoritmanya (SINTA 5 National Journal)](https://journal.ubpkarawang.ac.id/index.php/TeknikInformatikaSistemInfor/article/view/4423)
