@@ -14,6 +14,9 @@ Data Science Tutorial...
 
 Slide...
 
+* [Ruhimat Game of Trust](https://github.com/itsmecevi/sbg-ruhimat/blob/main/sbg-final-new.pdf)
+* [Data-Driven Decision](https://www.canva.com/design/DAFTrCyOrW4/wOtENOok5bttN6LHzujNcw/view?utm_content=DAFTrCyOrW4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+* [Data Visualization](https://itsmecevi.github.io/data-visualization/)
 * [Data Storytelling](https://itsmecevi.github.io/data-storytelling/)
 * [KNIME Academy Data Science](https://itsmecevi.github.io/knime-academy-datascience/)
 * [Casperian Trading School-Preschool](https://www.canva.com/design/DAEDnNWpgwQ/QqajLWs5NaMaI4d28M7iAg/view?utm_content=DAEDnNWpgwQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
