@@ -15,6 +15,8 @@ Data Science Tutorial...
 ### Data Project:
 
 ### Lecture:
+The best way to learn is to teach...
+
 * Summer 2023: Numerical Methods, Python Programming, Python Web Development (Streamlit), Linear Algebra, Business Intelligence (Tableau), Basic Web Development (Bootstrap Studio), Capita Selecta Analytics (Forecasting, Sentimen Analysis, NLP, Business Analytics) 
 * Winter 2022/2023:
 * Summer 2022:
