@@ -14,12 +14,16 @@ Data Science Tutorial...
 
 Slide...
 
+* [Inferential Statistik mit R](https://itsmecevi.github.io/insta/)
 * [Wahrscheinlichkeitsrechnung mit R](https://itsmecevi.github.io/wkr/)
 * [Deskriptive Statistik mit R](https://itsmecevi.github.io/desta/)
 * [R Programming Pedia](https://r-pedia.gitbook.io/cevi/)
 
 
 ### Data Project:
+
+* [Easy web applications in R](https://itsmecevi.github.io/r-shiny-app/)
+* [Key Performance Indicators Dashboard](https://itsmecevi.github.io/dataviz-kpi/)
 
 ### Lecture:
 The best way to learn is to teach...
