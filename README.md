@@ -75,11 +75,14 @@ The best way to learn is to teach...
 ### Workshop & Training:
 Strive for Progress, not Perfection...
 
+* **2023**: Business Analytics for Media Company (PT Clue), Big Data Analytics (POLINES)
+* **2022**: Big Data Analytics: For Better Business Decision Making (Bank Sulselbar), Data Analytic with Tableau (Bank Kalteng), Data Science (POLINES), Artificial Intelligence (Bakrie Group), Big Data Analytics for Decision Making (KEMENLU)
+* **2021**: Big Data Analytics: For Better Business Decision Making (Bank Papua), IT Risk Management (Bank Sumselbabel), Risk Management (Uni TIDAR)
 * **2019**: Visual Analytics (PT Belant), Business Intelligence (JICT), Business Analytics (PELINDO II)
 * **2020**: Tableau Visual Analytics (Digits UNPAD), Big Data for Social Science Bootcamp (KOMINFO).
-* **2021**: Big Data Analytics: For Better Business Decision Making (Bank Papua), IT Risk Management (Bank Sumselbabel), Risk Management (Uni TIDAR)
-* **2022**: Big Data Analytics: For Better Business Decision Making (Bank Sulselbar), Data Analytic with Tableau (Bank Kalteng), Data Science (POLINES), Artificial Intelligence (Bakrie Group), Big Data Analytics for Decision Making (KEMENLU)
-* **2023**: Business Analytics for Media Company (PT Clue), Big Data Analytics (POLINES)
+
+
+
 
 ### Journal:
 * [Prediksi Harian Harga Penutupan Dogecoin: Analisis Faktor Pengaruh dan Algoritmanya (SINTA 5 National Journal)](https://journal.ubpkarawang.ac.id/index.php/TeknikInformatikaSistemInfor/article/view/4423)
