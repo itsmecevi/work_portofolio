@@ -15,6 +15,14 @@ Data Science Tutorial...
 ### Data Project:
 
 ### Lecture:
+* Summer 2023: 
+* Winter 2022/2023:
+* Summer 2022:
+* Winter 2021/2022:
+* Summer 2021:
+* Winter 2020/2021:
+* Summer 2020:
+* Winter 2019/2020:
 
 ### Workshop & Training:
 
