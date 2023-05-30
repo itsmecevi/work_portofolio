@@ -3,7 +3,7 @@ Data Science Tutorial...
 
 * **Intro to Programming**: [Arithmetic and Variables](https://colab.research.google.com/drive/1goYkfMay2Eez9pvgsVTO5uTUDKV-ys9X?usp=sharing), [Functions](https://colab.research.google.com/drive/1ksPrNI4dNLf9IJ8CndJk9V49sW8pboEP?usp=sharing), [Data Types](https://colab.research.google.com/drive/1v1QKVXUUmFcagDDQp-JISwvmt8bbv709?usp=sharing), [Conditions and Conditional Statements](https://colab.research.google.com/drive/1c8lLrflPAmljsU12R3KGLMSdZ_Jvyjnw?usp=sharing), [Intro to Lists](https://colab.research.google.com/drive/1eQv4h1vpQBUeU8Ao530JUqSX5scQ3geM?usp=sharing)
 * **Python Kaggle**: [Hello Python!](), [Functions and Getting Help](), [Booleans and Conditionals](), [Lists](), [Loops and List Comprehensions](), [Strings and Dictionaries](), [Working with External Libraries]()
-* Python Fundamental: [Tutorial](https://colab.research.google.com/drive/1Il9BhnPeZZKzXGsLwPVM00O7SK4S7VR1?usp=sharing)
+* **Python Fundamental**: [Tutorial](https://colab.research.google.com/drive/1Il9BhnPeZZKzXGsLwPVM00O7SK4S7VR1?usp=sharing)
 * **Python for Data Science (Introduction to Python Programming)**: [Python Programming](https://colab.research.google.com/drive/1hOYPrZd68cZexgFeErQikRuN3ALrjUZC?usp=sharing), [Python Variable](https://colab.research.google.com/drive/1lQ_W-QGulH4OP2HcaLq_APDGx_GRaBVj?usp=sharing), [Python Data Types](https://colab.research.google.com/drive/1i7pp1NUzsXK-MxXu8axPvqJFdXCjuMgQ?usp=sharing)
 * **Python for Data Science (For Loops and Conditional Statements)**: [Python For Loops](https://colab.research.google.com/drive/1qSobt8x90CpZTZDQlmyQSKsR7QjicrHE?usp=sharing), [Python If, Else, Elif](https://colab.research.google.com/drive/12imcVU5SFQLRpw1WUJ0LagKakPSiLTuR?usp=sharing), [Multiple Condition](https://colab.research.google.com/drive/1dzFjiJRoZ1os9ON9CKkLCyoYcguK9G-z?usp=sharing)
 * **Python for Data Science (Python Functions)**: [Function in Python](https://colab.research.google.com/drive/1KihiHixC_-rc5Z2Dj494CIngakrUDuyo?usp=sharing), [Python Function Exercise](https://colab.research.google.com/drive/17YnTgstlGOBPGs8ZWxNhI16B9ki1yshR?usp=sharing)
@@ -68,23 +68,23 @@ Who has the data has the power...
 ### Lecture:
 The best way to learn is to teach...
 
-* **Summer 2023**: Numerical Methods, Python Programming, Python Web Development (Streamlit), Linear Algebra, Business Intelligence (Tableau), Basic Web Development (Bootstrap Studio), Capita Selecta Analytics (Forecasting, NLP, Business Analytics) 
-* **Winter 2022/2023**: Intro to Data Science, Math for Data Science, Business Math, Numerical Method, Statistics & Probability
-* **Summer 2022**: Business Intelligence (Tableau), Intro to Web Development (Bootstrap Studio), Data Science
-* **Winter 2021/2022**: Decision Science, Business Intelligence (Tableau), Statistics for Data Science, Data Science
-* **Summer 2021**: Business Intelligence, Capital Selecta Analytics (Forecasting, NLP, Business Analytics), Statistics for Data Science, Data Science
-* **Winter 2020/2021**: Decision Science, Code Free Data Science, Statistics for Data Science, Data Science
-* **Summer 2020**: Business Intelligence (Tableau), Code Free Data Science, Data Science
-* **Winter 2019/2020**: Business Intelligence (Tableau), Intro to Web Development, Data Science
+* Summer 2023: Numerical Methods, Python Programming, Python Web Development (Streamlit), Linear Algebra, Business Intelligence (Tableau), Basic Web Development (Bootstrap Studio), Capita Selecta Analytics (Forecasting, NLP, Business Analytics) 
+* Winter 2022/2023: Intro to Data Science, Math for Data Science, Business Math, Numerical Method, Statistics & Probability
+* Summer 2022: Business Intelligence (Tableau), Intro to Web Development (Bootstrap Studio), Data Science
+* Winter 2021/2022: Decision Science, Business Intelligence (Tableau), Statistics for Data Science, Data Science
+* Summer 2021: Business Intelligence, Capital Selecta Analytics (Forecasting, NLP, Business Analytics), Statistics for Data Science, Data Science
+* Winter 2020/2021: Decision Science, Code Free Data Science, Statistics for Data Science, Data Science
+* Summer 2020: Business Intelligence (Tableau), Code Free Data Science, Data Science
+* Winter 2019/2020: Business Intelligence (Tableau), Intro to Web Development, Data Science
 
 ### Workshop & Training:
 Strive for Progress, not Perfection...
 
-* **2023**: Business Analytics for Media Company (PT Clue), Big Data Analytics (POLINES)
-* **2022**: Big Data Analytics: For Better Business Decision Making (Bank Sulselbar), Data Analytic with Tableau (Bank Kalteng), Data Science (POLINES), Artificial Intelligence (Bakrie Group), Big Data Analytics for Decision Making (KEMENLU)
-* **2021**: Big Data Analytics: For Better Business Decision Making (Bank Papua), IT Risk Management (Bank Sumselbabel), Risk Management (Uni TIDAR)
-* **2019**: Visual Analytics (PT Belant), Business Intelligence (JICT), Business Analytics (PELINDO II)
-* **2020**: Tableau Visual Analytics (Digits UNPAD), Big Data for Social Science Bootcamp (KOMINFO).
+* 2023: Business Analytics for Media Company (PT Clue), Big Data Analytics (POLINES)
+* 2022: Big Data Analytics: For Better Business Decision Making (Bank Sulselbar), Data Analytic with Tableau (Bank Kalteng), Data Science (POLINES), Artificial Intelligence (Bakrie Group), Big Data Analytics for Decision Making (KEMENLU)
+* 2021: Big Data Analytics: For Better Business Decision Making (Bank Papua), IT Risk Management (Bank Sumselbabel), Risk Management (Uni TIDAR)
+* 2019: Visual Analytics (PT Belant), Business Intelligence (JICT), Business Analytics (PELINDO II)
+* 2020: Tableau Visual Analytics (Digits UNPAD), Big Data for Social Science Bootcamp (KOMINFO).
 
 
 
