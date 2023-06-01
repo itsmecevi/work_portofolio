@@ -15,6 +15,8 @@ Data Science Tutorial...
 * **Data Cleaning**: [Handling Missing Values](), [Scaling and Normalization](), [Parsing Dates](), [Character Encodings](), [Inconsistent Data Entry](), [Data Cleaning Basic](), [Data Cleaning and Analysis in Python](), [Data Aggregation](), [Combining Data Using Pandas](), [Transforming Data with Pandas](), [Working with Strings in Pandas](), [Working with Missing and Duplicate Data](), [Regular Expression Basics](), [Advanced Regular Expressions](), [List Comprehensions and Lambda Functions](), [Working with Missing Data](), [Data Cleaning Walkthrough](), [Data Cleaning Walkthrough: Combining the Data](), [Data Cleaning Walkthrough: Analyzing and Visualizing the Data](), [Guided Project: Analyzing NYC High School Data](), [Challenge: Cleaning Data](), [Guided Project: Star Wars Survey]()
 * **Data Visualization**: [Hello, Seaborn](), [Line Charts](), [Bar Charts and Heatmaps](), [Scatter Plots](), [Distributions](), [Choosing Plot Types and Custom Styles](), [Final Project](), [Creating Your Own Notebooks](), [Line Graphs and Time Series](), [Scatter Plots and Correlations](), [Bar Plots Histograms, and Distributions](), [Pandas Visualizations and Grid Charts](), [Relational Plots and Multiple Variables]()
 * **Data Storytelling**: [Design for an Audience](), [Storytelling Data Visualization](), [Gestalt Principles and Pre-Attentive Attributes](), [Matplotlib Styles-FiveThirtyEight Case Study]()
+* **Exploratory Data Analysis**:
+* **Data Modeling**: 
 
 Slide...
 
