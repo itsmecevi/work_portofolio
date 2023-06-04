@@ -21,7 +21,7 @@ Data Science Tutorial...
 * **Data Visualization**: [Hello, Seaborn](), [Line Charts](), [Bar Charts and Heatmaps](), [Scatter Plots](), [Distributions](), [Choosing Plot Types and Custom Styles](), [Final Project](), [Creating Your Own Notebooks](), [Line Graphs and Time Series](), [Scatter Plots and Correlations](), [Bar Plots Histograms, and Distributions](), [Pandas Visualizations and Grid Charts](), [Relational Plots and Multiple Variables]()
 * **Data Storytelling**: [Design for an Audience](), [Storytelling Data Visualization](), [Gestalt Principles and Pre-Attentive Attributes](), [Matplotlib Styles-FiveThirtyEight Case Study]()
 * **Exploratory Data Analysis**:
-* **Data Modeling**: 
+* **Data Modeling**: [Training, Validation, and Testing Data](https://colab.research.google.com/drive/15tVRyeiLlTIl4ygzU4Ps-kSBuElnAQrQ?usp=sharing)
 * **Hyperparameter/Parameter Tuning:**
 
 Slide...
