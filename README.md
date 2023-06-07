@@ -26,6 +26,18 @@ Data Science Tutorial...
 * **Data Modeling**: [Training, Validation, and Testing Data](https://colab.research.google.com/drive/15tVRyeiLlTIl4ygzU4Ps-kSBuElnAQrQ?usp=sharing)
 * **Hyperparameter/Parameter Tuning:**
 
+
+
+### Data Project:
+Who has the data has the power...
+
+* [Perbandingan Algoritma Naive Bayes di dalam Scikit-Learn Python Library dengan Matematika Murni Algoritma Naive Bayes: Studi Kasus Klasifikasi Spam untuk meminimalisir Email Berbahaya](https://colab.research.google.com/drive/1YU4c6_IWv0DTUz3ewEBcmFolars4qT1d?usp=sharing)
+* [Predicting USA Home Sales](https://itsmecevi.github.io/usa-home-sales/)
+* [Predicting Turnover Rate](https://itsmecevi.github.io/hr-turnover-rate/)
+* [Easy web applications in R](https://itsmecevi.github.io/r-shiny-app/)
+* [Key Performance Indicators Dashboard](https://itsmecevi.github.io/dataviz-kpi/)
+* 
+
 Slide...
 
 * [Ruhimat Game of Trust](https://github.com/itsmecevi/sbg-ruhimat/blob/main/sbg-final-new.pdf)
@@ -67,13 +79,6 @@ Slide...
 * [R Programming Pedia](https://r-pedia.gitbook.io/cevi/)
 
 
-### Data Project:
-Who has the data has the power...
-
-* [Predicting USA Home Sales](https://itsmecevi.github.io/usa-home-sales/)
-* [Predicting Turnover Rate](https://itsmecevi.github.io/hr-turnover-rate/)
-* [Easy web applications in R](https://itsmecevi.github.io/r-shiny-app/)
-* [Key Performance Indicators Dashboard](https://itsmecevi.github.io/dataviz-kpi/)
 
 ### Lecture:
 The best way to learn is to teach...
