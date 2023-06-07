@@ -36,7 +36,6 @@ Who has the data has the power...
 * [Predicting Turnover Rate](https://itsmecevi.github.io/hr-turnover-rate/)
 * [Easy web applications in R](https://itsmecevi.github.io/r-shiny-app/)
 * [Key Performance Indicators Dashboard](https://itsmecevi.github.io/dataviz-kpi/)
-* 
 
 Slide...
 
