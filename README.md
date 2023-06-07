@@ -31,7 +31,7 @@ Data Science Tutorial...
 ### Data Project:
 Who has the data has the power...
 
-* [Perbandingan Algoritma Naive Bayes di dalam Scikit-Learn Python Library dengan Matematika Murni Algoritma Naive Bayes: Studi Kasus Klasifikasi Spam untuk meminimalisir Email Berbahaya](https://colab.research.google.com/drive/1YU4c6_IWv0DTUz3ewEBcmFolars4qT1d?usp=sharing)
+* [Text Spam Detection](https://colab.research.google.com/drive/1YU4c6_IWv0DTUz3ewEBcmFolars4qT1d?usp=sharing)
 * [Predicting USA Home Sales](https://itsmecevi.github.io/usa-home-sales/)
 * [Predicting Turnover Rate](https://itsmecevi.github.io/hr-turnover-rate/)
 * [Easy web applications in R](https://itsmecevi.github.io/r-shiny-app/)
