@@ -31,8 +31,8 @@ Data Science Tutorial...
 ### Data Project:
 Who has the data has the power...
 
-* [Hyperparameter Tuning and Normalization for Heart Disease Prediction](https://colab.research.google.com/drive/1zhGdsrdyJ9gZK3E02V7QmrtWqq83c2-P?usp=sharing)
-* [Text Spam Detection](https://colab.research.google.com/drive/1YU4c6_IWv0DTUz3ewEBcmFolars4qT1d?usp=sharing)
+* [Heart Disease Prediction: Hyperparamater Tuning](https://colab.research.google.com/drive/1zhGdsrdyJ9gZK3E02V7QmrtWqq83c2-P?usp=sharing)
+* [Text Spam Detection: Scikit-Learn vs Naive Bayes Math](https://colab.research.google.com/drive/1YU4c6_IWv0DTUz3ewEBcmFolars4qT1d?usp=sharing)
 * [Predicting USA Home Sales](https://itsmecevi.github.io/usa-home-sales/)
 * [Predicting Turnover Rate](https://itsmecevi.github.io/hr-turnover-rate/)
 * [Easy web applications in R](https://itsmecevi.github.io/r-shiny-app/)
